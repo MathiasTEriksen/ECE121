@@ -1,6 +1,6 @@
-# ECE121 Student Repo  
+# Mathias Eriksen's ECE121 Student Repo  
 
-Welcome to your repo for ECE121. All source code and attending projects should be hosted and worked on in here.
+Welcome to my repo for ECE121. All source code and attending projects are hosted and worked on in here.
 Below you will find descriptions of the folders and their intended use. Feel free to add more but for grading purposes
 you must use these specific directories as described.
 
